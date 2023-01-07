@@ -5,7 +5,8 @@ const About = () => {
     <div className="flex flex-col justify-between h-full about_wrapper">
       <div className="border-b-2 border-b-[#002956] flex flex-col items-center py-4">
         <p className="text-[22px] font-bold text-[white] text-center px-10">
-          Vehicle Data Logging System
+          A Remote Control and Monitoring System for Fused Deposition 3D
+          Printers
         </p>
         {/* <p className="text-[20px] font-semibold text-[white]">(IS4RM)</p> */}
       </div>
