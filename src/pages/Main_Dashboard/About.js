@@ -53,7 +53,7 @@ const About = () => {
         </div>
       </div>
       <div className="text-center w-full bg-[#01336A] pt-6 pb-6 flex flex-row items-center justify-center border-2 border-[#034890] text-[#b1b1b1]">
-        © Developed by Samuel Adeniyi, Mechatronics Engineer
+        © Designed by Knimi Bakna Musa
       </div>
     </div>
   );

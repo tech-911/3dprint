@@ -96,7 +96,7 @@ class Login extends Component {
           </div>
 
           <h1 className="font-[inter] font-bold text-[25px] text-center text-[white] mb-10">
-            Vehicle Data Logging System
+            A Remote Control and Monitoring System for Fused Deposition 3D Printers
           </h1>
           <form
             action=""

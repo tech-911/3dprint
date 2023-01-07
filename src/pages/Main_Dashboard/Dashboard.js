@@ -60,7 +60,7 @@ function Dashboard({ siginOUt }) {
               </div>
             </Link>
             <Link
-              to="/dashboard/logs"
+              to="/dashboard/control"
               className="flex items-center text-[white] ml-6"
             >
               <div
@@ -70,7 +70,7 @@ function Dashboard({ siginOUt }) {
               >
                 <CgDatabase className="text-[24px] text-[white]" />
                 <p className="text-[15px] font-[inter] font-semibold ml-2">
-                  Logs
+                  Control
                 </p>
               </div>
             </Link>

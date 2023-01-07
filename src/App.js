@@ -9,7 +9,7 @@ import About from "./pages/Main_Dashboard/About";
 import Monitor from "./pages/Main_Dashboard/Monitor";
 import { Navigate } from "react-router-dom";
 import { getAuth, signOut } from "firebase/auth";
-import Logs from "./pages/Main_Dashboard/Logs";
+import Control from "./pages/Main_Dashboard/Control";
 // import userEvent from "@testing-library/user-event";
 
 class App extends Component {
@@ -77,7 +77,7 @@ class App extends Component {
             <Route index element={<About />} />
             <Route path="/dashboard/monitor" element={<Monitor />} />
             <Route path="/dashboard/about" element={<About />} />
-            <Route path="/dashboard/logs" element={<Logs />} />
+            <Route path="/dashboard/control" element={<Control />} />
           </Route>
         </Routes>
       </div>
