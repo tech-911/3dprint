@@ -65,7 +65,7 @@ function Dashboard({ siginOUt }) {
             >
               <div
                 className={`flex items-center ${
-                  path.includes("logs") ? "border-r-8" : ""
+                  path.includes("control") ? "border-r-8" : ""
                 } w-full py-3`}
               >
                 <CgDatabase className="text-[24px] text-[white]" />

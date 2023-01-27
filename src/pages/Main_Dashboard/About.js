@@ -16,40 +16,24 @@ const About = () => {
         </h1>
         <div className="h-[80%] about_restext mb-12">
           <p className="text-[15px] text-justify px-2">
-            The automotive industry has experienced spectacular expansion in the
-            last decade, with an increase in the number of cars in metropolitan
-            cities. It is vital to maintain track of automobiles based on their
-            plates number in order to properly manage vehicular traffic. This
-            project presents a methodology for tracking vehicle movement based
-            on the vehicle's plates number with data logging model that serves
-            as a centralized database structure for vehicles identification,
-            using image processing techniques and IoT mechanism for detection
-            and recognition accuracy. The goal of this project work is to use
-            artificial intelligence, computer vision (image processing), laser
-            scanning technology and convolutional neural networks (CNN) to build
-            an Intelligent Plate Number Recognition(IPNR) System. This problem
-            entails mathematical principles and algorithms, which ensure a
-            variety of techniques for completing the product's steps. The image
-            is captured with any camera capable of producing high-quality
-            images. This work focuses on plate number localization utilizing the
-            contours tracing approach, as well as edge identification and
-            sharpening using optical character recognition algorithm based on
-            OpenCV libraries. In order to assess the accuracy of the proposed
-            video processing algorithm an instrumented vehicle was equipped with
-            a high precision GPS and GSM module. This study uses a variety of
-            algorithms in each area, from plate number detection, to character
-            recognition, to improve the system's performance to the maximum
-            extent possible with the least amount of effort and processing
-            resources. The results of these experiments highlight the
-            versatility of vehicle in the metropolitan cities combined with
-            video processing technique and image processing for data logging and
-            decision making. Also results of data set used to train the
-            evaluated models, as well as persistence in recognition across
-            frames in video data was shown. Finally, a graphical user interface
-            was developed for data logging to ensure continuity in the training
-            of the model and for monitoring and control of the system. Keywords:
-            Artificial Intelligence, Computer Vision, Data Logging Model,
-            Metropolitan City, Vehicle Movement Monitoring.
+            3D printing, also known as additive manufacturing, is a process of
+            creating three-dimensional solid objects from a digital file. It
+            allows for the production of customized products quickly and
+            efficiently and is used in a variety of industries, including
+            aerospace, medical, and industrial manufacturing. However, the
+            process requires initial settings and constant monitoring, which can
+            be time-consuming. The aim of this project is to design and develop
+            a smart monitoring and control system for Fused Deposition Modeling
+            (FDM) 3D printers. The system will include a monitoring device and a
+            web-based platform for real-time monitoring and control. The project
+            will also involve the testing and evaluation of the system's
+            performance. The successful design of the system will improve the
+            efficiency and ease of use of the 3D printing process, particularly
+            in industrial environments where models are printed in mass and in
+            larger sizes. The scope of the project includes the design,
+            construction, and programming of a prototype monitoring system for
+            FDM 3D printers. It will also include a user-access cloud server or
+            web page for remote control and monitoring.
           </p>
         </div>
       </div>
