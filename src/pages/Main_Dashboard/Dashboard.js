@@ -44,9 +44,13 @@ function Dashboard({ siginOUt }) {
                 </p>
               </div>
             </Link>
-            <Link
-              to="/dashboard/monitor"
+            {/* <Link
+              to="https://octoprint.remote3dprinter.info/"
               className="flex items-center text-[white] ml-6"
+            > */}
+            <a
+              className="flex items-center text-[white] ml-6"
+              href="https://octoprint.remote3dprinter.info/"
             >
               <div
                 className={`flex items-center ${
@@ -58,7 +62,8 @@ function Dashboard({ siginOUt }) {
                   Monitor
                 </p>
               </div>
-            </Link>
+            </a>
+            {/* </Link> */}
             <Link
               to="/dashboard/control"
               className="flex items-center text-[white] ml-6"
