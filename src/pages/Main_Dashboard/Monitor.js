@@ -7,10 +7,13 @@ class Monitor extends Component {
     return (
       <div className="flex flex-row h-[100%] w-[100%]">
         <p className="text-[white] text-[1rem] ml-10 mt-10">Link:</p>
-        <h1 className="text-[white] text-[1rem] ml-2 mt-10">
+        <a
+          href="https://octoprint.remote3dprinter.info/"
+          className="text-[white] text-[1rem] ml-2 mt-10"
+        >
           {" "}
           https://octoprint.remote3dprinter.info/
-        </h1>
+        </a>
       </div>
     );
   }
